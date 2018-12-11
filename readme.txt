@@ -5,4 +5,4 @@ Git tracks changes of files
 My stupid boss still prefer SVN
 Creating a new branch is quick and simple
 Manager
-this is the true com
+This is the truth
